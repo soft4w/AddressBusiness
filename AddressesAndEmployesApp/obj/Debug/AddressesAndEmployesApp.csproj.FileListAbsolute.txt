@@ -1,0 +1,15 @@
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\bin\Debug\AddressesAndEmployesApp.exe.config
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\bin\Debug\AddressesAndEmployesApp.exe
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\bin\Debug\AddressesAndEmployesApp.pdb
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\bin\Debug\EntityFramework.dll
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\bin\Debug\EntityFramework.xml
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\obj\Debug\AddressesAndEmployesApp.Properties.Resources.resources
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\obj\Debug\AddressesAndEmployesApp.csproj.GenerateResource.cache
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\obj\Debug\AddressesAndEmployesApp.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\obj\Debug\AddressesAndEmployesApp.csproj.CopyComplete
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\obj\Debug\AddressesAndEmployesApp.exe
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\obj\Debug\AddressesAndEmployesApp.pdb
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\obj\Debug\AddressesAndEmployesApp.MainForm.resources
+C:\Users\Z\source\repos\ConsoleAppForGit\AddressesAndEmployesApp\obj\Debug\AddressesAndEmployesApp.csprojAssemblyReference.cache
